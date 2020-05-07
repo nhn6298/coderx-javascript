@@ -1,4 +1,4 @@
--------- exercise 1 ----------
+//-------- exercise 1 ----------
 var a = 10;
 var h = 20;
 /**
@@ -8,7 +8,7 @@ var h = 20;
  */
 // viết code ở đây.
 var s = a * h / 2
--------- exercise 2 ----------
+//-------- exercise 2 ----------
 var width = 10;
 var height = 20;
 /**
@@ -21,7 +21,7 @@ var height = 20;
 // viết code ở đây.
 var s = width * height;
 var p = (width + height) * 2;
--------- exercise 3 ----------
+//-------- exercise 3 ----------
 /**
  * r: Bán kính của 1 hình tròn
  * s: Diện tích của hình tròn đó
@@ -35,4 +35,4 @@ var r = 4;
 var p = 2 * r * 3.14;
 var s = r * r * 3.14;
 
--------- finish ----------
+//-------- finish ----------
